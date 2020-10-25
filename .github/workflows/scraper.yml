@@ -24,7 +24,7 @@ jobs:
           git add .
           if [[ "$(git status --porcelain)" != "" ]]; then
               git commit -m "Update data" -a
-              git push origin master
+              git push origin main
           fi
         env:
           REPO_KEY: ${{secrets.GITHUB_TOKEN}}
