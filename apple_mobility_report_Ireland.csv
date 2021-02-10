@@ -390,6 +390,7 @@ Ireland,Clare,Clare,sub-region,2021-02-05,-50.47,,
 Ireland,Clare,Clare,sub-region,2021-02-06,-51.9,,
 Ireland,Clare,Clare,sub-region,2021-02-07,-62.61,,
 Ireland,Clare,Clare,sub-region,2021-02-08,-54.77,,
+Ireland,Clare,Clare,sub-region,2021-02-09,-56.2,,
 Ireland,Cork,Cork,sub-region,2020-01-13,0.0,,0.0
 Ireland,Cork,Cork,sub-region,2020-01-14,15.299999999999995,,18.47
 Ireland,Cork,Cork,sub-region,2020-01-15,21.90000000000001,,31.340000000000003
@@ -783,6 +784,7 @@ Ireland,Cork,Cork,sub-region,2021-02-05,-34.879999999999995,,-37.55
 Ireland,Cork,Cork,sub-region,2021-02-06,-48.37,,-47.56
 Ireland,Cork,Cork,sub-region,2021-02-07,-55.37,,-65.0
 Ireland,Cork,Cork,sub-region,2021-02-08,-47.43,,-55.14
+Ireland,Cork,Cork,sub-region,2021-02-09,-47.16,,-57.39
 Ireland,Donegal,Donegal,sub-region,2020-01-13,0.0,,
 Ireland,Donegal,Donegal,sub-region,2020-01-14,5.6200000000000045,,
 Ireland,Donegal,Donegal,sub-region,2020-01-15,-0.0799999999999983,,
@@ -1174,6 +1176,7 @@ Ireland,Donegal,Donegal,sub-region,2021-02-05,-43.37,,
 Ireland,Donegal,Donegal,sub-region,2021-02-06,-38.21,,
 Ireland,Donegal,Donegal,sub-region,2021-02-07,-48.04,,
 Ireland,Donegal,Donegal,sub-region,2021-02-08,-44.49,,
+Ireland,Donegal,Donegal,sub-region,2021-02-09,-39.45,,
 Ireland,Dublin,Dublin,city,2020-01-13,0.0,0.0,0.0
 Ireland,Dublin,Dublin,city,2020-01-14,12.579999999999998,0.049999999999997165,14.170000000000002
 Ireland,Dublin,Dublin,city,2020-01-15,13.099999999999996,5.790000000000006,19.78
@@ -1565,6 +1568,7 @@ Ireland,Dublin,Dublin,city,2021-02-05,-49.1,-74.03999999999998,-64.47
 Ireland,Dublin,Dublin,city,2021-02-06,-54.99,-76.13,-64.69
 Ireland,Dublin,Dublin,city,2021-02-07,-64.55,-77.78,-70.63
 Ireland,Dublin,Dublin,city,2021-02-08,-60.65,-77.87,-72.19
+Ireland,Dublin,Dublin,city,2021-02-09,-59.58,-76.73,-74.1
 Ireland,Galway,Galway,sub-region,2020-01-13,0.0,,0.0
 Ireland,Galway,Galway,sub-region,2020-01-14,15.689999999999998,,8.269999999999996
 Ireland,Galway,Galway,sub-region,2020-01-15,12.510000000000005,,23.86
@@ -1958,6 +1962,7 @@ Ireland,Galway,Galway,sub-region,2021-02-05,-53.24,,-70.48
 Ireland,Galway,Galway,sub-region,2021-02-06,-57.49,,-68.09
 Ireland,Galway,Galway,sub-region,2021-02-07,-63.19,,-74.64
 Ireland,Galway,Galway,sub-region,2021-02-08,-56.87,,-66.15
+Ireland,Galway,Galway,sub-region,2021-02-09,-52.86,,-71.2
 Ireland,Kerry,Kerry,sub-region,2020-01-13,0.0,,
 Ireland,Kerry,Kerry,sub-region,2020-01-14,8.120000000000005,,
 Ireland,Kerry,Kerry,sub-region,2020-01-15,2.8199999999999936,,
@@ -2349,6 +2354,7 @@ Ireland,Kerry,Kerry,sub-region,2021-02-05,-40.49,,
 Ireland,Kerry,Kerry,sub-region,2021-02-06,-52.61,,
 Ireland,Kerry,Kerry,sub-region,2021-02-07,-58.6,,
 Ireland,Kerry,Kerry,sub-region,2021-02-08,-37.86,,
+Ireland,Kerry,Kerry,sub-region,2021-02-09,-35.91,,
 Ireland,Kildare,Kildare,sub-region,2020-01-13,0.0,,
 Ireland,Kildare,Kildare,sub-region,2020-01-14,17.0,,
 Ireland,Kildare,Kildare,sub-region,2020-01-15,4.099999999999993,,
@@ -2740,6 +2746,7 @@ Ireland,Kildare,Kildare,sub-region,2021-02-05,-45.58,,
 Ireland,Kildare,Kildare,sub-region,2021-02-06,-55.1,,
 Ireland,Kildare,Kildare,sub-region,2021-02-07,-67.9,,
 Ireland,Kildare,Kildare,sub-region,2021-02-08,-51.49,,
+Ireland,Kildare,Kildare,sub-region,2021-02-09,-52.45,,
 Ireland,Kilkenny,Kilkenny,sub-region,2020-01-13,0.0,,
 Ireland,Kilkenny,Kilkenny,sub-region,2020-01-14,11.319999999999993,,
 Ireland,Kilkenny,Kilkenny,sub-region,2020-01-15,19.430000000000007,,
@@ -3131,6 +3138,7 @@ Ireland,Kilkenny,Kilkenny,sub-region,2021-02-05,-36.85,,
 Ireland,Kilkenny,Kilkenny,sub-region,2021-02-06,-51.42,,
 Ireland,Kilkenny,Kilkenny,sub-region,2021-02-07,-58.95,,
 Ireland,Kilkenny,Kilkenny,sub-region,2021-02-08,-37.86,,
+Ireland,Kilkenny,Kilkenny,sub-region,2021-02-09,-42.12,,
 Ireland,Laois,Laois,sub-region,2020-01-13,0.0,,
 Ireland,Laois,Laois,sub-region,2020-01-14,6.689999999999998,,
 Ireland,Laois,Laois,sub-region,2020-01-15,6.5,,
@@ -3522,6 +3530,7 @@ Ireland,Laois,Laois,sub-region,2021-02-05,-32.68000000000001,,
 Ireland,Laois,Laois,sub-region,2021-02-06,-55.84,,
 Ireland,Laois,Laois,sub-region,2021-02-07,-49.67,,
 Ireland,Laois,Laois,sub-region,2021-02-08,-44.36,,
+Ireland,Laois,Laois,sub-region,2021-02-09,-47.44,,
 Ireland,Limerick,Limerick,sub-region,2020-01-13,0.0,,
 Ireland,Limerick,Limerick,sub-region,2020-01-14,19.42,,
 Ireland,Limerick,Limerick,sub-region,2020-01-15,18.180000000000007,,
@@ -3913,6 +3922,7 @@ Ireland,Limerick,Limerick,sub-region,2021-02-05,-31.25,,
 Ireland,Limerick,Limerick,sub-region,2021-02-06,-42.72,,
 Ireland,Limerick,Limerick,sub-region,2021-02-07,-47.25,,
 Ireland,Limerick,Limerick,sub-region,2021-02-08,-36.88,,
+Ireland,Limerick,Limerick,sub-region,2021-02-09,-35.959999999999994,,
 Ireland,Louth,Louth,sub-region,2020-01-13,0.0,,
 Ireland,Louth,Louth,sub-region,2020-01-14,4.560000000000001,,
 Ireland,Louth,Louth,sub-region,2020-01-15,4.819999999999993,,
@@ -4304,6 +4314,7 @@ Ireland,Louth,Louth,sub-region,2021-02-05,-30.510000000000005,,
 Ireland,Louth,Louth,sub-region,2021-02-06,-41.92,,
 Ireland,Louth,Louth,sub-region,2021-02-07,-48.99,,
 Ireland,Louth,Louth,sub-region,2021-02-08,-45.42,,
+Ireland,Louth,Louth,sub-region,2021-02-09,-39.49,,
 Ireland,Mayo,Mayo,sub-region,2020-01-13,0.0,,
 Ireland,Mayo,Mayo,sub-region,2020-01-14,-0.25,,
 Ireland,Mayo,Mayo,sub-region,2020-01-15,-0.2999999999999972,,
@@ -4695,6 +4706,7 @@ Ireland,Mayo,Mayo,sub-region,2021-02-05,-54.39,,
 Ireland,Mayo,Mayo,sub-region,2021-02-06,-48.81,,
 Ireland,Mayo,Mayo,sub-region,2021-02-07,-54.7,,
 Ireland,Mayo,Mayo,sub-region,2021-02-08,-61.05,,
+Ireland,Mayo,Mayo,sub-region,2021-02-09,-53.99,,
 Ireland,Meath,Meath,sub-region,2020-01-13,0.0,,
 Ireland,Meath,Meath,sub-region,2020-01-14,10.36,,
 Ireland,Meath,Meath,sub-region,2020-01-15,7.6099999999999985,,
@@ -5086,6 +5098,7 @@ Ireland,Meath,Meath,sub-region,2021-02-05,-37.79,,
 Ireland,Meath,Meath,sub-region,2021-02-06,-46.11,,
 Ireland,Meath,Meath,sub-region,2021-02-07,-57.64,,
 Ireland,Meath,Meath,sub-region,2021-02-08,-49.64,,
+Ireland,Meath,Meath,sub-region,2021-02-09,-48.81,,
 Ireland,Roscommon,Roscommon,sub-region,2020-01-13,0.0,,
 Ireland,Roscommon,Roscommon,sub-region,2020-01-14,7.689999999999998,,
 Ireland,Roscommon,Roscommon,sub-region,2020-01-15,-2.4699999999999993,,
@@ -5477,6 +5490,7 @@ Ireland,Roscommon,Roscommon,sub-region,2021-02-05,-30.77,,
 Ireland,Roscommon,Roscommon,sub-region,2021-02-06,-53.45,,
 Ireland,Roscommon,Roscommon,sub-region,2021-02-07,-59.86,,
 Ireland,Roscommon,Roscommon,sub-region,2021-02-08,-46.75,,
+Ireland,Roscommon,Roscommon,sub-region,2021-02-09,-54.93,,
 Ireland,Sligo,Sligo,sub-region,2020-01-13,0.0,,
 Ireland,Sligo,Sligo,sub-region,2020-01-14,29.61000000000001,,
 Ireland,Sligo,Sligo,sub-region,2020-01-15,17.230000000000004,,
@@ -5868,6 +5882,7 @@ Ireland,Sligo,Sligo,sub-region,2021-02-05,-30.629999999999995,,
 Ireland,Sligo,Sligo,sub-region,2021-02-06,-46.83,,
 Ireland,Sligo,Sligo,sub-region,2021-02-07,-53.91,,
 Ireland,Sligo,Sligo,sub-region,2021-02-08,-37.9,,
+Ireland,Sligo,Sligo,sub-region,2021-02-09,-37.15,,
 Ireland,Tipperary,Tipperary,sub-region,2020-01-13,0.0,,
 Ireland,Tipperary,Tipperary,sub-region,2020-01-14,19.959999999999994,,
 Ireland,Tipperary,Tipperary,sub-region,2020-01-15,15.290000000000004,,
@@ -6259,6 +6274,7 @@ Ireland,Tipperary,Tipperary,sub-region,2021-02-05,-31.129999999999995,,
 Ireland,Tipperary,Tipperary,sub-region,2021-02-06,-46.64,,
 Ireland,Tipperary,Tipperary,sub-region,2021-02-07,-51.39,,
 Ireland,Tipperary,Tipperary,sub-region,2021-02-08,-40.84,,
+Ireland,Tipperary,Tipperary,sub-region,2021-02-09,-41.97,,
 Ireland,Total,Total,country/region,2020-01-13,0.0,0.0,0.0
 Ireland,Total,Total,country/region,2020-01-14,13.540000000000004,1.4699999999999989,14.599999999999996
 Ireland,Total,Total,country/region,2020-01-15,13.019999999999996,5.760000000000005,20.480000000000004
@@ -6650,6 +6666,7 @@ Ireland,Total,Total,country/region,2021-02-05,-43.39,-72.01,-56.11
 Ireland,Total,Total,country/region,2021-02-06,-51.22,-73.78,-56.42
 Ireland,Total,Total,country/region,2021-02-07,-59.61,-75.18,-65.06
 Ireland,Total,Total,country/region,2021-02-08,-53.01,-76.01,-64.17
+Ireland,Total,Total,country/region,2021-02-09,-52.04,-74.66,-65.82
 Ireland,Waterford,Waterford,sub-region,2020-01-13,0.0,,
 Ireland,Waterford,Waterford,sub-region,2020-01-14,23.55,,
 Ireland,Waterford,Waterford,sub-region,2020-01-15,41.09,,
@@ -7041,6 +7058,7 @@ Ireland,Waterford,Waterford,sub-region,2021-02-05,-29.56,,
 Ireland,Waterford,Waterford,sub-region,2021-02-06,-44.1,,
 Ireland,Waterford,Waterford,sub-region,2021-02-07,-44.3,,
 Ireland,Waterford,Waterford,sub-region,2021-02-08,-41.72,,
+Ireland,Waterford,Waterford,sub-region,2021-02-09,-34.379999999999995,,
 Ireland,Westmeath,Westmeath,sub-region,2020-01-13,0.0,,
 Ireland,Westmeath,Westmeath,sub-region,2020-01-14,25.090000000000003,,
 Ireland,Westmeath,Westmeath,sub-region,2020-01-15,18.67,,
@@ -7432,6 +7450,7 @@ Ireland,Westmeath,Westmeath,sub-region,2021-02-05,-44.97,,
 Ireland,Westmeath,Westmeath,sub-region,2021-02-06,-51.94,,
 Ireland,Westmeath,Westmeath,sub-region,2021-02-07,-52.79,,
 Ireland,Westmeath,Westmeath,sub-region,2021-02-08,-53.15,,
+Ireland,Westmeath,Westmeath,sub-region,2021-02-09,-51.27,,
 Ireland,Wexford,Wexford,sub-region,2020-01-13,0.0,,
 Ireland,Wexford,Wexford,sub-region,2020-01-14,-1.4300000000000068,,
 Ireland,Wexford,Wexford,sub-region,2020-01-15,17.78,,
@@ -7823,6 +7842,7 @@ Ireland,Wexford,Wexford,sub-region,2021-02-05,-28.620000000000005,,
 Ireland,Wexford,Wexford,sub-region,2021-02-06,-41.5,,
 Ireland,Wexford,Wexford,sub-region,2021-02-07,-51.9,,
 Ireland,Wexford,Wexford,sub-region,2021-02-08,-37.26,,
+Ireland,Wexford,Wexford,sub-region,2021-02-09,-32.58,,
 Ireland,Wicklow,Wicklow,sub-region,2020-01-13,0.0,,
 Ireland,Wicklow,Wicklow,sub-region,2020-01-14,12.53,,
 Ireland,Wicklow,Wicklow,sub-region,2020-01-15,7.549999999999998,,
@@ -8214,6 +8234,7 @@ Ireland,Wicklow,Wicklow,sub-region,2021-02-05,-44.69,,
 Ireland,Wicklow,Wicklow,sub-region,2021-02-06,-49.13,,
 Ireland,Wicklow,Wicklow,sub-region,2021-02-07,-60.69,,
 Ireland,Wicklow,Wicklow,sub-region,2021-02-08,-50.72,,
+Ireland,Wicklow,Wicklow,sub-region,2021-02-09,-52.56,,
 United Kingdom,Northern Ireland,Belfast,city,2020-01-13,0.0,0.0,0.0
 United Kingdom,Northern Ireland,Belfast,city,2020-01-14,8.489999999999995,0.20000000000000284,16.700000000000006
 United Kingdom,Northern Ireland,Belfast,city,2020-01-15,11.950000000000005,3.6800000000000064,23.200000000000006
@@ -8605,6 +8626,7 @@ United Kingdom,Northern Ireland,Belfast,city,2021-02-05,-0.04000000000000625,-63
 United Kingdom,Northern Ireland,Belfast,city,2021-02-06,-6.3599999999999985,-69.92,-21.89
 United Kingdom,Northern Ireland,Belfast,city,2021-02-07,-32.459999999999994,-69.12,-50.03
 United Kingdom,Northern Ireland,Belfast,city,2021-02-08,-21.77,-65.91,-33.19
+United Kingdom,Northern Ireland,Belfast,city,2021-02-09,-15.879999999999995,-63.7,-31.05
 United Kingdom,Northern Ireland,Northern Ireland,sub-region,2020-01-13,0.0,0.0,0.0
 United Kingdom,Northern Ireland,Northern Ireland,sub-region,2020-01-14,4.579999999999998,-7.599999999999994,14.049999999999995
 United Kingdom,Northern Ireland,Northern Ireland,sub-region,2020-01-15,7.969999999999999,-3.0799999999999983,19.53
@@ -8998,3 +9020,4 @@ United Kingdom,Northern Ireland,Northern Ireland,sub-region,2021-02-05,-1.780000
 United Kingdom,Northern Ireland,Northern Ireland,sub-region,2021-02-06,-8.519999999999996,-67.00999999999999,3.5100000000000047
 United Kingdom,Northern Ireland,Northern Ireland,sub-region,2021-02-07,-30.41,-67.53999999999999,-33.22
 United Kingdom,Northern Ireland,Northern Ireland,sub-region,2021-02-08,-16.900000000000006,-64.42,-8.780000000000001
+United Kingdom,Northern Ireland,Northern Ireland,sub-region,2021-02-09,-15.650000000000004,-63.02,-11.019999999999996
